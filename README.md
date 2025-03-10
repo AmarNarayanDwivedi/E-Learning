@@ -31,18 +31,18 @@ This project is a full-stack Learning Management System (LMS) built using the ME
 * **README.md:** This file.
   
 ## DEMO
-** Project landing page **
+**Project landing page**
   ![Screenshot 2025-03-10 220807](https://github.com/user-attachments/assets/cfee83ed-0fc2-46d0-af44-ca328328e99f)
 
-** User signup/login page**
+**User signup/login page**
   ![Screenshot 2025-03-10 220824](https://github.com/user-attachments/assets/d8644b85-b29d-44f3-be20-fb4f56f24fed)
 
-** Course search and filtering page **
+**Course search and filtering page**
   ![Screenshot 2025-03-10 220904](https://github.com/user-attachments/assets/ec35881f-94f0-4684-94dc-684eb023bc84)
 
-** Course details page (with demo video) **
+**Course details page (with demo video)**
   ![Screenshot 2025-03-10 220922](https://github.com/user-attachments/assets/6a38433d-8953-4b9a-8157-91a195b35f25)
 
-** Payment gateway integration **
+**Payment gateway integration**
   ![Screenshot 2025-03-10 220934](https://github.com/user-attachments/assets/b75d0db6-76ba-4c50-ae4f-d2bc6b864f0b)
 
